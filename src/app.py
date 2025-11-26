@@ -75,6 +75,13 @@ activities = {
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
     }
+    ,
+    "GitHub Skills": {
+        "description": "Hands-on workshops to learn Git, GitHub collaboration, and practical coding skills for students",
+        "schedule": "One-day workshops; schedule announced per term",
+        "max_participants": 25,
+        "participants": []
+    }
 }
 
 
